@@ -1,1 +1,1 @@
-window.location = "http://stackoverflow.com/";
+window.location.replace("http://stackoverflow.com");
